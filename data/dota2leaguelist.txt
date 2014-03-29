@@ -1,0 +1,2093 @@
+{
+	"result": {
+		"leagues": [
+			{
+				"name": "#DOTA_Item_Killing_Spree_North_America",
+				"leagueid": 25,
+				"description": "#DOTA_Item_Desc_Killing_Spree_North_America",
+				"tournament_url": "http:\/\/neodota.com\/?page_id=1389",
+				"itemdef": 15014
+			},
+			{
+				"name": "#DOTA_Item_WildCardsWest",
+				"leagueid": 2,
+				"description": "#DOTA_Item_Desc_Wild_Cards_West",
+				"tournament_url": "http:\/\/www.dota2.com\/tournaments\/international\/",
+				"itemdef": 15015
+			},
+			{
+				"name": "#DOTA_Item_WildCardsEast",
+				"leagueid": 3,
+				"description": "#DOTA_Item_Desc_Wild_Cards_East",
+				"tournament_url": "http:\/\/www.dota2.com\/tournaments\/international\/",
+				"itemdef": 15016
+			},
+			{
+				"name": "#DOTA_Item_League_TheDefense",
+				"leagueid": 4,
+				"description": "#DOTA_Item_Desc_League_TheDefense",
+				"tournament_url": "http:\/\/www.the-defense.com\/en\/start",
+				"itemdef": 15018
+			},
+			{
+				"name": "#DOTA_Item_League_ItsGosuMontlyMadnessAsia",
+				"leagueid": 5,
+				"description": "#DOTA_Item_Desc_Its_Gosu_Monthly_Madness_Asia",
+				"tournament_url": "http:\/\/www.itsgosu.com\/game\/dota2\/articles\/it-s-gosu-announces-monthly-madness-asia-edition_563",
+				"itemdef": 15042
+			},
+			{
+				"name": "#DOTA_Item_League_StarLadderS2",
+				"leagueid": 6,
+				"description": "#DOTA_Item_Desc_League_StarLadderS2",
+				"tournament_url": "http:\/\/dota2.starladder.tv\/news\/1182",
+				"itemdef": 15047
+			},
+			{
+				"name": "#DOTA_Item_League_BeyondTheSummit",
+				"leagueid": 7,
+				"description": "#DOTA_Item_Desc_League_BeyondTheSummit",
+				"tournament_url": "http:\/\/www.dotacommentaries.com\/index.php\/bts-wt\/",
+				"itemdef": 15049
+			},
+			{
+				"name": "#DOTA_Item_League_Prodota2WL",
+				"leagueid": 8,
+				"description": "#DOTA_Item_Desc_League_Prodota2WL",
+				"tournament_url": "http:\/\/www.prodota2.com\/",
+				"itemdef": 15051
+			},
+			{
+				"name": "#DOTA_Item_League_MachinimaECAL_America",
+				"leagueid": 9,
+				"description": "#DOTA_Item_Desc_League_MachinimaECAL_America",
+				"tournament_url": "http:\/\/www.ecal.tv\/playoffs",
+				"itemdef": 15053
+			},
+			{
+				"name": "#DOTA_Item_League_TheInternal",
+				"leagueid": 65000,
+				"description": "#DOTA_Item_Desc_League_TheInternal",
+				"tournament_url": "http:\/\/www.dota2.com\/tournaments\/international\/",
+				"itemdef": 15055
+			},
+			{
+				"name": "#DOTA_Item_Nexon_Starter_League",
+				"leagueid": 65007,
+				"description": "#DOTA_Item_Desc_Nexon_Starter_League",
+				"tournament_url": "http:\/\/dota2.nexon.com",
+				"itemdef": 15061
+			},
+			{
+				"name": "#DOTA_Item_League_RazerMiniMadness",
+				"leagueid": 10,
+				"description": "#DOTA_Item_Desc_League_RazerMiniMadness",
+				"tournament_url": "http:\/\/www.itsgosu.com\/game\/dota2\/articles\/it-s-gosu-presents-razer-mini-madness_621",
+				"itemdef": 15063
+			},
+			{
+				"name": "#DOTA_Item_League_AbsoluteArenaKOH",
+				"leagueid": 11,
+				"description": "#DOTA_Item_Desc_League_AbsoluteArenaKOH",
+				"tournament_url": "http:\/\/www.absolutelegends.net\/news\/2069\/AbsoluteArena-King-of-the-Hill-Schedule-Update",
+				"itemdef": 15065
+			},
+			{
+				"name": "#DOTA_Item_Corsair_Summer_2013",
+				"leagueid": 57,
+				"description": "#DOTA_Item_Desc_Corsair_Summer_2013",
+				"tournament_url": "http:\/\/gc.corsair.com",
+				"itemdef": 15071
+			},
+			{
+				"name": "#DOTA_Item_The_International_2012",
+				"leagueid": 65001,
+				"description": "#DOTA_Item_Desc_League_TheInternational",
+				"tournament_url": "http:\/\/www.dota2.com\/tournaments\/international2012\/mainevent\/results\/champions\/",
+				"itemdef": 15072
+			},
+			{
+				"name": "#DOTA_Item_League_RaidCall",
+				"leagueid": 12,
+				"description": "#DOTA_Item_League_RaidCall_Desc",
+				"tournament_url": "http:\/\/d2l.evilgeniuses.net",
+				"itemdef": 15075
+			},
+			{
+				"name": "#DOTA_Item_League_StarSeries3",
+				"leagueid": 13,
+				"description": "#DOTA_Item_League_StarSeries3_Desc",
+				"tournament_url": "http:\/\/dota2.starladder.tv",
+				"itemdef": 15077
+			},
+			{
+				"name": "#DOTA_Item_League_GEST",
+				"leagueid": 14,
+				"description": "#DOTA_Item_League_GEST_Desc",
+				"tournament_url": "http:\/\/www.dotatalk.com\/tournaments\/gest\/",
+				"itemdef": 15081
+			},
+			{
+				"name": "#DOTA_Item_League_PremierLeague",
+				"leagueid": 15,
+				"description": "#DOTA_Item_League_PremierLeague_Desc",
+				"tournament_url": "www.thepremierleague.eu",
+				"itemdef": 15083
+			},
+			{
+				"name": "#DOTA_Item_League_GosuLeague",
+				"leagueid": 16,
+				"description": "#DOTA_Item_Desc_GosuLeague",
+				"tournament_url": "http:\/\/play.gosugamers.net\/events\/48:gosuleague-season-4",
+				"itemdef": 15085
+			},
+			{
+				"name": "#DOTA_Item_League_G1Championship",
+				"leagueid": 17,
+				"description": "#DOTA_Item_Desc_G1_Championship_League",
+				"tournament_url": "http:\/\/media.17173.com\/dota\/g1\/",
+				"itemdef": 15096
+			},
+			{
+				"name": "#DOTA_Item_League_atoD2",
+				"leagueid": 18,
+				"description": "#DOTA_Item_Desc_atoD_2",
+				"tournament_url": "",
+				"itemdef": 15099
+			},
+			{
+				"name": "#DOTA_Item_League_GosuAsiaMadness",
+				"leagueid": 19,
+				"description": "#DOTA_Item_Desc_Its_Gosu_Asia_Madness",
+				"tournament_url": "http:\/\/www.itsgosu.com\/game\/dota2\/articles\/it-s-gosu-asia-madness-for-love-completes-the-line-up_802",
+				"itemdef": 15101
+			},
+			{
+				"name": "#DOTA_Item_League_DreamHackWinter2012",
+				"leagueid": 65002,
+				"description": "#DOTA_Item_Desc_DreamHack_Dota_2_Corsair_Vengeance_Cup",
+				"tournament_url": "www.dreamhack.se",
+				"itemdef": 15103
+			},
+			{
+				"name": "#DOTA_Item_Star_Series_Season_IV",
+				"leagueid": 20,
+				"description": "#DOTA_Item_Desc_StarSeries_Season_IV",
+				"tournament_url": "http:\/\/dota2.starladder.tv",
+				"itemdef": 15105
+			},
+			{
+				"name": "#DOTA_Item_The_Defense_3",
+				"leagueid": 21,
+				"description": "#DOTA_Item_Desc_The_Defense_3",
+				"tournament_url": "http:\/\/www.the-defense.com\/en\/start",
+				"itemdef": 15107
+			},
+			{
+				"name": "#DOTA_Item_RaidCall_Dota_2_League_Season_2",
+				"leagueid": 22,
+				"description": "#DOTA_Item_Desc_RaidCall_Dota_2_League_Season_2",
+				"tournament_url": "http:\/\/d2l.evilgeniuses.net",
+				"itemdef": 15109
+			},
+			{
+				"name": "#DOTA_Item_Dota_2_The_Asia",
+				"leagueid": 23,
+				"description": "#DOTA_Item_Desc_Dota_2_The_Asia",
+				"tournament_url": "http:\/\/e-clubmalaysia.com\/dota2\/?page_id=2701 ",
+				"itemdef": 15111
+			},
+			{
+				"name": "#DOTA_Item_GLeague_2012",
+				"leagueid": 24,
+				"description": "#DOTA_Item_Desc_GLeague_2012",
+				"tournament_url": "http:\/\/gleague.gamefy.cn\/",
+				"itemdef": 15119
+			},
+			{
+				"name": "#DOTA_Item_SEA_League",
+				"leagueid": 26,
+				"description": "#DOTA_Item_Desc_SEA_League",
+				"tournament_url": "http:\/\/sealeague.wordpress.com\/",
+				"itemdef": 15122
+			},
+			{
+				"name": "#DOTA_Item_The_Premier_League_Season_4",
+				"leagueid": 27,
+				"description": "#DOTA_Item_Desc_The_Premier_League_Season_4",
+				"tournament_url": "http:\/\/www.thepremierleague.eu",
+				"itemdef": 15124
+			},
+			{
+				"name": "#DOTA_Item_RaidCall_EMS_One_Spring_2013",
+				"leagueid": 28,
+				"description": "#DOTA_Item_Desc_RaidCall_EMS_One_Spring_2013",
+				"tournament_url": "http:\/\/dota2.raidcall-emsone.com\/",
+				"itemdef": 15127
+			},
+			{
+				"name": "#DOTA_Item_Star_Series_Season_V",
+				"leagueid": 29,
+				"description": "#DOTA_Item_Desc_Star_Series_Season_V",
+				"tournament_url": "http:\/\/dota2.starladder.tv",
+				"itemdef": 15129
+			},
+			{
+				"name": "#DOTA_Item_4Players_League",
+				"leagueid": 65003,
+				"description": "#DOTA_Item_Desc_4Players_League",
+				"tournament_url": "http:\/\/www.4pl.de",
+				"itemdef": 15131
+			},
+			{
+				"name": "#DOTA_Item_GEST_Dota_2__Feb_and_March",
+				"leagueid": 30,
+				"description": "#DOTA_Item_Desc_GEST_Dota_2__2013",
+				"tournament_url": "https:\/\/www.dotatalk.com\/gest-main-coverage-page",
+				"itemdef": 15134
+			},
+			{
+				"name": "#DOTA_Item_Armageddon_Dota_2_Grand_Slam",
+				"leagueid": 31,
+				"description": "#DOTA_Item_Desc_Armaggeddon_Dota_2_Grand_Slam",
+				"tournament_url": "http:\/\/e-clubmalaysia.com\/dota2\/?p=3350",
+				"itemdef": 15136
+			},
+			{
+				"name": "#DOTA_Item_WePlay_Dota_2",
+				"leagueid": 32,
+				"description": "#DOTA_Item_Desc_WePlay_Dota_2",
+				"tournament_url": "http:\/\/weplay.tv\/",
+				"itemdef": 15138
+			},
+			{
+				"name": "#DOTA_Item_DreamHack_Dota2_Invitational",
+				"leagueid": 33,
+				"description": "#DOTA_Item_Desc_DreamHack_Dota2_Invitational",
+				"tournament_url": "http:\/\/www.dreamhack.se\/dhs13\/2013\/03\/02\/the-dreamhack-dota2-invitational\/",
+				"itemdef": 15140
+			},
+			{
+				"name": "#DOTA_Item_G1_Champions_League_Season_5",
+				"leagueid": 34,
+				"description": "#DOTA_Item_Desc_G1_Champions_League_Season_5",
+				"tournament_url": "http:\/\/g1.2p.com\/dota2\/",
+				"itemdef": 15142
+			},
+			{
+				"name": "#DOTA_Item_Netolic_Pro_League_2nd_edition",
+				"leagueid": 36,
+				"description": "#DOTA_Item_Desc_Netolic_Pro_League_2nd_edition",
+				"tournament_url": "http:\/\/www.netolic.tv\/",
+				"itemdef": 15148
+			},
+			{
+				"name": "#DOTA_Item_AtoD_3",
+				"leagueid": 37,
+				"description": "#DOTA_Item_Desc_AtoD3",
+				"tournament_url": "",
+				"itemdef": 15149
+			},
+			{
+				"name": "#DOTA_Item_E2Max_L33T_Championship",
+				"leagueid": 38,
+				"description": "#DOTA_Item_Desc_E2Max_L33T_Championship",
+				"tournament_url": "http:\/\/www.rapturegaming.net\/ELC",
+				"itemdef": 15151
+			},
+			{
+				"name": "#DOTA_Item_GEST_Dota_2__April_and_May",
+				"leagueid": 39,
+				"description": "#DOTA_Item_Desc_GEST_Dota_2__April_and_May",
+				"tournament_url": "http:\/\/www.dotatalk.com\/gest-main-coverage-page",
+				"itemdef": 15153
+			},
+			{
+				"name": "#DOTA_Item_AMD_Dota2_Premier_League",
+				"leagueid": 40,
+				"description": "#DOTA_Item_Desc_AMD_Dota2_Premier_League",
+				"tournament_url": "http:\/\/www.dotatalk.com\/tournament\/amd-dota-2-premier-league",
+				"itemdef": 15155
+			},
+			{
+				"name": "#DOTA_Item_The_International_East_Qualifiers",
+				"leagueid": 65004,
+				"description": "#DOTA_Item_Desc_The_International_East_Qualifiers",
+				"tournament_url": "http:\/\/www.dota2.com\/tournaments\/international\/announcement\/",
+				"itemdef": 15157
+			},
+			{
+				"name": "#DOTA_Item_The_International_West_Qualifiers",
+				"leagueid": 65005,
+				"description": "#DOTA_Item_Desc_Copy_of_The_International_East_Qualifiers",
+				"tournament_url": "http:\/\/www.dota2.com\/tournaments\/international\/announcement\/",
+				"itemdef": 15158
+			},
+			{
+				"name": "#DOTA_Item_Curse_Dota_2_Invitational",
+				"leagueid": 41,
+				"description": "#DOTA_Item_Desc_Curse_Dota_2_Invitational",
+				"tournament_url": "http:\/\/www.curse.com\/news\/dota-2\/48217-team-brackets-announced-curse-dota-2-invitational",
+				"itemdef": 15160
+			},
+			{
+				"name": "#DOTA_Item_Dota_2_Super_League",
+				"leagueid": 42,
+				"description": "#DOTA_Item_Desc_Dota_2_Super_League",
+				"tournament_url": "http:\/\/play.gosugamers.net\/events\/113-dota-2-super-league",
+				"itemdef": 15165
+			},
+			{
+				"name": "#DOTA_Item_Pinoy_Gaming_Festival_Summer_Assembly",
+				"leagueid": 43,
+				"description": "#DOTA_Item_Desc_Pinoy_Gaming_Festival_Summer_Assembly",
+				"tournament_url": "http:\/\/www.pgf.ph\/",
+				"itemdef": 15169
+			},
+			{
+				"name": "#DOTA_Item_Rapture_Gaming_Network_League",
+				"leagueid": 44,
+				"description": "#DOTA_Item_Desc_Rapture_Gaming_Network_League",
+				"tournament_url": "http:\/\/www.rapturegaming.net\/",
+				"itemdef": 15171
+			},
+			{
+				"name": "#DOTA_Item_Premier_League_Season_5",
+				"leagueid": 45,
+				"description": "#DOTA_Item_Desc_Premier_League_Season_5",
+				"tournament_url": "http:\/\/www.thepremierleague.eu",
+				"itemdef": 15173
+			},
+			{
+				"name": "#DOTA_Item_StarSeries_Season_VI",
+				"leagueid": 46,
+				"description": "#DOTA_Item_Desc_StarSeries_Season_VI",
+				"tournament_url": "http:\/\/dota2.starladder.tv\/",
+				"itemdef": 15175
+			},
+			{
+				"name": "#DOTA_Item_RaidCall_EMS_One_Summer_2013",
+				"leagueid": 47,
+				"description": "#DOTA_Item_Desc_RaidCall_EMS_One_Summer_2013",
+				"tournament_url": "http:\/\/dota2.raidcall-emsone.com\/",
+				"itemdef": 15177
+			},
+			{
+				"name": "#DOTA_Item_RaidCall_Dota_2_League_Season_3",
+				"leagueid": 48,
+				"description": "#DOTA_Item_Desc_RaidCall_Dota_2_League_Season_3",
+				"tournament_url": "http:\/\/www.d2l.gg\/",
+				"itemdef": 15179
+			},
+			{
+				"name": "#DOTA_Item_Dota_2_Canada_Cup",
+				"leagueid": 49,
+				"description": "#DOTA_Item_Desc_Dota_2_Canada_Cup",
+				"tournament_url": "http:\/\/dota-2.co\/",
+				"itemdef": 15181
+			},
+			{
+				"name": "#DOTA_Item_American_Dota_League",
+				"leagueid": 50,
+				"description": "#DOTA_Item_Desc_American_Dota_League",
+				"tournament_url": "http:\/\/americandotaleague.com\/",
+				"itemdef": 15183
+			},
+			{
+				"name": "#DOTA_Item_The_Defense_Season_4",
+				"leagueid": 51,
+				"description": "#DOTA_Item_Desc_The_Defense_Season_4",
+				"tournament_url": "http:\/\/www.the-defense.com\/",
+				"itemdef": 15185
+			},
+			{
+				"name": "#DOTA_Item_REDBULL_Esports_Champion_League_2013",
+				"leagueid": 52,
+				"description": "#DOTA_Item_Desc_REDBULL_Esports_Champion_League_2013",
+				"tournament_url": "http:\/\/www.cespc.com\/",
+				"itemdef": 15187
+			},
+			{
+				"name": "#DOTA_Item_DreamHack_ASUS_ROG_Dota_2_Tournament",
+				"leagueid": 53,
+				"description": "#DOTA_Item_Desc_DreamHack_ASUS_ROG_Dota_2_Tournament",
+				"tournament_url": "www.dreamhack.se",
+				"itemdef": 15190
+			},
+			{
+				"name": "#DOTA_Item_Alienware_Cup__2013_Season_1",
+				"leagueid": 54,
+				"description": "#DOTA_Item_Desc_Alienware_Cup__2013_Season_1",
+				"tournament_url": "http:\/\/www.alienwarecup.com\/",
+				"itemdef": 15192
+			},
+			{
+				"name": "#DOTA_Item_The_International",
+				"leagueid": 65006,
+				"description": "#DOTA_Item_Desc_The_International",
+				"tournament_url": "http:\/\/www.dota2.com\/international\/announcement\/",
+				"itemdef": 15194
+			},
+			{
+				"name": "#DOTA_Item_CDEC_Season_24",
+				"leagueid": 55,
+				"description": "#DOTA_Item_Desc_CDEC_Season_24",
+				"tournament_url": "http:\/\/bbs.vpgame.cn\/",
+				"itemdef": 15196
+			},
+			{
+				"name": "#DOTA_Item_AMD_Dota2_Premier_League_Season_2",
+				"leagueid": 58,
+				"description": "#DOTA_Item_Desc_AMD_Dota2_Premier_League_Season_2",
+				"tournament_url": "http:\/\/www.dotatalk.com\/amd2pl",
+				"itemdef": 15199
+			},
+			{
+				"name": "#DOTA_Item_GEST_June_and_July_2013",
+				"leagueid": 59,
+				"description": "#DOTA_Item_Desc_GEST_June_and_July_2013",
+				"tournament_url": "http:\/\/www.dotatalk.com\/gest-main-coverage-page",
+				"itemdef": 15201
+			},
+			{
+				"name": "#DOTA_Item_Electronic_Sports_World_Cup_2013",
+				"leagueid": 61,
+				"description": "#DOTA_Item_Desc_Electronic_Sports_World_Cup_2013",
+				"tournament_url": "http:\/\/www.eswc.com\/",
+				"itemdef": 15203
+			},
+			{
+				"name": "#DOTA_Item_Neolution_GosuCup",
+				"leagueid": 60,
+				"description": "#DOTA_Item_Desc_Neolution_GosuCup",
+				"tournament_url": "http:\/\/www.gosugamers.net\/events\/138-neolution-gosucup",
+				"itemdef": 15207
+			},
+			{
+				"name": "#DOTA_Item_Batalha_Gamer",
+				"leagueid": 62,
+				"description": "#DOTA_Item_Desc_Batalha_Gamer",
+				"tournament_url": "http:\/\/www.batalhagamer.com.br\/",
+				"itemdef": 15212
+			},
+			{
+				"name": "#DOTA_Item_Insomnia49_Dota_2_Cup",
+				"leagueid": 63,
+				"description": "#DOTA_Item_Desc_Insomnia49_Dota_2_Cup",
+				"tournament_url": "http:\/\/insomniagamingfestival.com\/i49\/tournaments\/event\/dota2\/",
+				"itemdef": 15218
+			},
+			{
+				"name": "#DOTA_Item_Netolic_Pro_League_3rd_Edition",
+				"leagueid": 64,
+				"description": "#DOTA_Item_Desc_Netolic_Pro_League_3rd_Edition",
+				"tournament_url": "http:\/\/www.netolic.tv\/",
+				"itemdef": 15220
+			},
+			{
+				"name": "#DOTA_Item_SteelSeries_Euro_Cup",
+				"leagueid": 65,
+				"description": "#DOTA_Item_Desc_SteelSeries_Euro_Cup",
+				"tournament_url": "http:\/\/www.dotatalk.com\/tournaments\/steelseries-euro-cup-august",
+				"itemdef": 15222
+			},
+			{
+				"name": "#DOTA_Item_TriniDota_2_League",
+				"leagueid": 66,
+				"description": "#DOTA_Item_Desc_TriniDota_2_League",
+				"tournament_url": "http:\/\/www.ttgamingleague.com\/dotaleague\/",
+				"itemdef": 15224
+			},
+			{
+				"name": "#DOTA_Item_MLG_NA_League_and_Full_Sail_LAN",
+				"leagueid": 67,
+				"description": "#DOTA_Item_Desc_MLG_NA_League_and_Full_Sail_LAN",
+				"tournament_url": "http:\/\/www.majorleaguegaming.com\/news\/mlg-fall-invitational-at-full-sail-university\/",
+				"itemdef": 15226
+			},
+			{
+				"name": "#DOTA_Item_GEST_August_and_September_2013",
+				"leagueid": 68,
+				"description": "#DOTA_Item_Desc_GEST_August_and_September_2013",
+				"tournament_url": "http:\/\/www.dotatalk.com\/tournaments\/gest-2-main-event-august",
+				"itemdef": 15228
+			},
+			{
+				"name": "#DOTA_Item_StarSeries_Season_7",
+				"leagueid": 69,
+				"description": "#DOTA_Item_Desc_StarSeries_Season_7",
+				"tournament_url": "http:\/\/dota2.starladder.tv\/",
+				"itemdef": 15230
+			},
+			{
+				"name": "#DOTA_Item_RaidCall_EMS_One_Fall_2013",
+				"leagueid": 70,
+				"description": "#DOTA_Item_Desc_RaidCall_EMS_One_Fall_2013",
+				"tournament_url": "http:\/\/dota2.raidcall-emsone.com\/",
+				"itemdef": 15232
+			},
+			{
+				"name": "#DOTA_Item_StarSeries_Season_7__BUNDLE",
+				"leagueid": 69,
+				"description": "#DOTA_Item_Desc_StarSeries_Season_7__BUNDLE",
+				"tournament_url": "http:\/\/dota2.starladder.tv\/",
+				"itemdef": 15230
+			},
+			{
+				"name": "#DOTA_Item_The_National",
+				"leagueid": 71,
+				"description": "#DOTA_Item_Desc_The_National",
+				"tournament_url": "http:\/\/www.d2thenational.ru\/",
+				"itemdef": 15235
+			},
+			{
+				"name": "#DOTA_Item_Telkom_Do_Gaming_Championships",
+				"leagueid": 72,
+				"description": "#DOTA_Item_Desc_Telkom_Do_Gaming_Championships",
+				"tournament_url": "http:\/\/www.dogamingleague.co.za\/",
+				"itemdef": 15237
+			},
+			{
+				"name": "#DOTA_Item_AEGIS_Gaming_League",
+				"leagueid": 73,
+				"description": "#DOTA_Item_Desc_AGE_Gaming_League",
+				"tournament_url": "http:\/\/www.eventoage.com.br\/torneio-de-dota-2\/",
+				"itemdef": 15239
+			},
+			{
+				"name": "#DOTA_Item_NADota_Elite_League",
+				"leagueid": 74,
+				"description": "#DOTA_Item_Desc_NADota_Elite_League",
+				"tournament_url": "http:\/\/neodota.com\/nel\/",
+				"itemdef": 15241
+			},
+			{
+				"name": "#DOTA_Item_Defense_of_the_Australians",
+				"leagueid": 75,
+				"description": "#DOTA_Item_Desc_Defense_of_the_Australians",
+				"tournament_url": "http:\/\/www.d2t.com.au\/",
+				"itemdef": 15243
+			},
+			{
+				"name": "#DOTA_Item_Sina_Cup_Supernova_Dota_2_Open",
+				"leagueid": 76,
+				"description": "#DOTA_Item_Desc_Sina_Cup_Supernova_Dota_2_Open",
+				"tournament_url": "",
+				"itemdef": 15245
+			},
+			{
+				"name": "#DOTA_Item_SK_Trophy",
+				"leagueid": 77,
+				"description": "#DOTA_Item_Desc_SK_Trophy",
+				"tournament_url": "http:\/\/www.sk-gaming.com",
+				"itemdef": 15247
+			},
+			{
+				"name": "#DOTA_Item_WePlayTV_Dota_2_League__Season_2",
+				"leagueid": 78,
+				"description": "#DOTA_Item_Desc_WePlayTV_Dota_2_League__Season_2",
+				"tournament_url": "http:\/\/www.weplay.tv",
+				"itemdef": 15250
+			},
+			{
+				"name": "#DOTA_Item_2013_National_Electronic_Sports_Tournament",
+				"leagueid": 65008,
+				"description": "#DOTA_Item_Desc_2013_National_Electronic_Sports_Tournament",
+				"tournament_url": "http:\/\/nest.sports.cn\/",
+				"itemdef": 15252
+			},
+			{
+				"name": "#DOTA_Item_Nexon_Sponsorship_League",
+				"leagueid": 80,
+				"description": "#DOTA_Item_Desc_Nexon_Sponsorship_League",
+				"tournament_url": "http:\/\/dota2.nexon.com\/",
+				"itemdef": 15254
+			},
+			{
+				"name": "#DOTA_Item_WPCACE_Dota_2_League",
+				"leagueid": 81,
+				"description": "#DOTA_Item_Desc_WPCACE_Dota_2_League",
+				"tournament_url": "http:\/\/www.wpc-esports.com\/portal\/MatchCalendar\/MatchCalendarHome.aspx?ScheduleID=26",
+				"itemdef": 15256
+			},
+			{
+				"name": "#DOTA_Item_Perfect_World_Dota_Academy",
+				"leagueid": 65009,
+				"description": "#DOTA_Item_Desc_Perfect_World_Dota_Academy",
+				"tournament_url": "http:\/\/www.dota2.com.cn\/",
+				"itemdef": 15259
+			},
+			{
+				"name": "#DOTA_Item_Hero_Dota_First_Step",
+				"leagueid": 82,
+				"description": "#DOTA_Item_Desc_Hero_Dota",
+				"tournament_url": "http:\/\/www.herodota.ru\/",
+				"itemdef": 15261
+			},
+			{
+				"name": "#DOTA_Item_CyberGamer_Dota_2_Pro_League",
+				"leagueid": 83,
+				"description": "#DOTA_Item_Desc_CyberGamer_Dota_2_Pro_League",
+				"tournament_url": "http:\/\/www.cybergamer.com.au\/pc\/dota2\/league\/",
+				"itemdef": 15263
+			},
+			{
+				"name": "#DOTA_Item_Serbian_Weekly_Dota_Cup",
+				"leagueid": 84,
+				"description": "#DOTA_Item_Desc_Serbian_Weekly_Dota_2_Cup",
+				"tournament_url": "http:\/\/https\/\/www.facebook.com\/Dota2Serbia",
+				"itemdef": 15266
+			},
+			{
+				"name": "#DOTA_Item_Copa_Latinoamerica_Plantronics_Gaming_LPD",
+				"leagueid": 85,
+				"description": "#DOTA_Item_Desc_Copa_Latinoamerica_Plantronics_Gaming_LPD",
+				"tournament_url": "http:\/\/www.lpdota.com\/",
+				"itemdef": 15268
+			},
+			{
+				"name": "#DOTA_Item_SCD_Tides_Wrath_Season_3",
+				"leagueid": 86,
+				"description": "#DOTA_Item_Desc_SCD_Tides_Wrath_Season_3",
+				"tournament_url": "http:\/\/southerncrossdota.com\/events-2\/tides-wrath-season-3\/",
+				"itemdef": 15270
+			},
+			{
+				"name": "#DOTA_Item_LigaBEL",
+				"leagueid": 88,
+				"description": "#DOTA_Item_Desc_LigaBEL",
+				"tournament_url": "http:\/\/www.ligabel.com.br\/noticia\/95\/Campeonato_de_Abertura_LigaBEL_-_Evento_Principal",
+				"itemdef": 15273
+			},
+			{
+				"name": "#DOTA_Item_Megalodon_Cup_Season_1",
+				"leagueid": 89,
+				"description": "#DOTA_Item_Desc_Megalodon_Cup_Season_1",
+				"tournament_url": "http:\/\/www.megalodongaming.com\/",
+				"itemdef": 15274
+			},
+			{
+				"name": "#DOTA_Item_Rising_Stars_Dota_League",
+				"leagueid": 90,
+				"description": "#DOTA_Item_Desc_Rising_Stars_Dota_League",
+				"tournament_url": "http:\/\/https\/\/www.facebook.com\/risingstarsleague",
+				"itemdef": 15276
+			},
+			{
+				"name": "#DOTA_Item_AMD_Dota_2_Beginners_Challenge",
+				"leagueid": 65010,
+				"description": "#DOTA_Item_Desc_AMD_Dota_2_Beginners_Challenge",
+				"tournament_url": "http:\/\/dota2.nexon.com\/",
+				"itemdef": 15278
+			},
+			{
+				"name": "#DOTA_Item_Fengyun_Tournament",
+				"leagueid": 91,
+				"description": "#DOTA_Item_Desc_Fengyun_Tournament",
+				"tournament_url": "http:\/\/www.fengyunzhibo.com\/",
+				"itemdef": 15280
+			},
+			{
+				"name": "#DOTA_Item_Electronic_Sports_Prime_Dota_2_Cup",
+				"leagueid": 92,
+				"description": "#DOTA_Item_Desc_Electronic_Sports_Prime_Dota_2_Cup",
+				"tournament_url": "http:\/\/www.es-prime.com\/",
+				"itemdef": 15282
+			},
+			{
+				"name": "#DOTA_Item_Road_to_the_Asian_Cyber_Games_2013__Indian_Qualifier",
+				"leagueid": 93,
+				"description": "#DOTA_Item_Desc_Road_to_the_Asian_Cyber_Games_2013__Indian_Qualifier",
+				"tournament_url": "http:\/\/www.re-inforcement.com\/play",
+				"itemdef": 15284
+			},
+			{
+				"name": "#DOTA_Item_South_Ural_League_Season_2",
+				"leagueid": 94,
+				"description": "#DOTA_Item_Desc_South_Ural_League_Season_2",
+				"tournament_url": "http:\/\/www.dota2.lks174.ru\/ii-sezon-lks.html",
+				"itemdef": 15286
+			},
+			{
+				"name": "#DOTA_Item_CEVO_Season_3",
+				"leagueid": 95,
+				"description": "#DOTA_Item_Desc_CEVO_Season_3",
+				"tournament_url": "http:\/\/www.cevo.com\/event\/dota2\/?tg=52",
+				"itemdef": 15288
+			},
+			{
+				"name": "#DOTA_Item_Hungarian_Premier_League",
+				"leagueid": 96,
+				"description": "#DOTA_Item_Desc_Hungary_Premier_League",
+				"tournament_url": "http:\/\/prodota.hu\/",
+				"itemdef": 15290
+			},
+			{
+				"name": "#DOTA_Item_Netolic_Pro_League_4",
+				"leagueid": 97,
+				"description": "#DOTA_Item_Desc_Netolic_Pro_League_4",
+				"tournament_url": "http:\/\/www.netolic.tv\/",
+				"itemdef": 15292
+			},
+			{
+				"name": "#DOTA_Item_DotaTalk_SteelSeries_Oceania_Cup",
+				"leagueid": 65011,
+				"description": "#DOTA_Item_Desc_DotaTalk_SteelSeries_Oceania_Cup",
+				"tournament_url": "http:\/\/www.dotatalk.com\/tournaments\/steelseries-oceania-cup-qualifiers",
+				"itemdef": 15294
+			},
+			{
+				"name": "#DOTA_Item_SteelSeries_Southeast_Asian_Cup_Season_3",
+				"leagueid": 98,
+				"description": "#DOTA_Item_Desc_SteelSeries_Southeast_Asian_Cup_Season_3",
+				"tournament_url": "http:\/\/www.dotatalk.com\/tournaments\/steelseries-sea-cup-season-3",
+				"itemdef": 15296
+			},
+			{
+				"name": "#DOTA_Item_SteelSeries_Euro_Cup_Season_2",
+				"leagueid": 99,
+				"description": "#DOTA_Item_Desc_SteelSeries_Euro_Cup_Season_2",
+				"tournament_url": "http:\/\/www.dotatalk.com\/tournaments\/steelseries-euro-cup-oct",
+				"itemdef": 15298
+			},
+			{
+				"name": "#DOTA_Item_Sunday_Evening_Cup_Series",
+				"leagueid": 100,
+				"description": "#DOTA_Item_Desc_Sunday_Evening_Cup_Series",
+				"tournament_url": "http:\/\/www.nadota.com\/secs",
+				"itemdef": 15300
+			},
+			{
+				"name": "#DOTA_Item_WH_Overgaming_Challenge_2",
+				"leagueid": 101,
+				"description": "#DOTA_Item_Desc_WH_Overgaming_Challenge_2",
+				"tournament_url": "http:\/\/www.wh-esports.com.br\/site\/index.php?mod=news&action=view&id=453",
+				"itemdef": 15302
+			},
+			{
+				"name": "#DOTA_Item_Logitech_G__Free_to_Play",
+				"leagueid": 102,
+				"description": "#DOTA_Item_Desc_Logitech_G__Free_to_Play",
+				"tournament_url": "http:\/\/www.facebook.com\/pages\/Free2Play\/507885392637533?ref=ts&fref=ts",
+				"itemdef": 15304
+			},
+			{
+				"name": "#DOTA_Item_Dota_2_Champions_League",
+				"leagueid": 103,
+				"description": "#DOTA_Item_Desc_Dota_2_Champions_League",
+				"tournament_url": "http:\/\/www.d2cl.org\/",
+				"itemdef": 15306
+			},
+			{
+				"name": "#DOTA_Item_HyperX_D2L_Season_4",
+				"leagueid": 104,
+				"description": "#DOTA_Item_Desc_HyperX_D2L_Season_4",
+				"tournament_url": "http:\/\/www.d2l.gg\/",
+				"itemdef": 15308
+			},
+			{
+				"name": "#DOTA_Item_SteelSeries_Dota_2_League_Code_A",
+				"leagueid": 105,
+				"description": "#DOTA_Item_Desc_SteelSeries_Dota_2_League_Code_A",
+				"tournament_url": "",
+				"itemdef": 15310
+			},
+			{
+				"name": "#DOTA_Item_ESP_Dota_2_Cup",
+				"leagueid": 92,
+				"description": "#DOTA_Item_Desc_Copy_of_Electronic_Sports_Prime_Dota_2_Cup",
+				"tournament_url": "http:\/\/www.es-prime.com\/",
+				"itemdef": 15282
+			},
+			{
+				"name": "#DOTA_Item_Techlabs_Cup_Grand_Final",
+				"leagueid": 106,
+				"description": "#DOTA_Item_Desc_Techlabs_Cup_Grand_Final",
+				"tournament_url": "http:\/\/cybersport.techlabs.pro\/",
+				"itemdef": 15313
+			},
+			{
+				"name": "#DOTA_Item_Dota_2_by_Ozone_Gaming",
+				"leagueid": 107,
+				"description": "#DOTA_Item_Desc_Dota_2_by_Ozone_Gaming",
+				"tournament_url": "http:\/\/www.nationalesl.com\/br\/dota2\/news\/230504\/",
+				"itemdef": 15315
+			},
+			{
+				"name": "#DOTA_Item_European_Elite_League",
+				"leagueid": 108,
+				"description": "#DOTA_Item_Desc_European_Elite_League",
+				"tournament_url": "http:\/\/www.neodota.com\/eel\/",
+				"itemdef": 15317
+			},
+			{
+				"name": "#DOTA_Item_Fragbite_Masters",
+				"leagueid": 109,
+				"description": "#DOTA_Item_Desc_Fragbite_Masters",
+				"tournament_url": "http:\/\/www.fragbite.se\/masters",
+				"itemdef": 15319
+			},
+			{
+				"name": "#DOTA_Item_SteelSeries_Malaysia_Cup__October",
+				"leagueid": 65012,
+				"description": "#DOTA_Item_Desc_Unnamed_New_Item",
+				"tournament_url": "http:\/\/www.dotatalk.com\/tournaments\/steelseries-my-cup-october",
+				"itemdef": 15321
+			},
+			{
+				"name": "#DOTA_Item_Nexon_Invitational_Super_Match",
+				"leagueid": 110,
+				"description": "#DOTA_Item_Desc_Nexon_Invitational_Super_Match",
+				"tournament_url": "http:\/\/dota2.nexon.com\/",
+				"itemdef": 15324
+			},
+			{
+				"name": "#DOTA_Item_NADota_Elite_League_Season_2",
+				"leagueid": 111,
+				"description": "#DOTA_Item_Desc_NADota_Elite_League_Season_2",
+				"tournament_url": "http:\/\/neodota.com\/nel\/",
+				"itemdef": 15326
+			},
+			{
+				"name": "#DOTA_Item_MLG_50000_Dota_2_Championship",
+				"leagueid": 65013,
+				"description": "#DOTA_Item_Desc_MLG_50000_Dota_2_Championship",
+				"tournament_url": "http:\/\/www.mlg.tv\/",
+				"itemdef": 15328
+			},
+			{
+				"name": "#DOTA_Item_WH_Overgaming_Challenge__2",
+				"leagueid": 101,
+				"description": "#DOTA_Item_Desc_Copy_of_WH_Overgaming_Challenge_2",
+				"tournament_url": "http:\/\/www.wh-esports.com.br\/site\/index.php?mod=news&action=view&id=453",
+				"itemdef": 15302
+			},
+			{
+				"name": "#DOTA_Item_Nexon_Invitational_Super_Match_",
+				"leagueid": 110,
+				"description": "#DOTA_Item_Desc_Copy_of_Nexon_Invitational_Super_Match",
+				"tournament_url": "http:\/\/dota2.nexon.com\/",
+				"itemdef": 15324
+			},
+			{
+				"name": "#DOTA_Item_ASUS_ROG_DreamLeague",
+				"leagueid": 112,
+				"description": "#DOTA_Item_Desc_ASUS_ROG_DreamLeague",
+				"tournament_url": "http:\/\/www.dreamhack.se\/dhw13\/esport\/dota2\/",
+				"itemdef": 15333
+			},
+			{
+				"name": "#DOTA_Item_Dota_2_Canada_Cup_Season_2",
+				"leagueid": 113,
+				"description": "#DOTA_Item_Desc_Dota_2_Canada_Cup_Season_2",
+				"tournament_url": "http:\/\/www.dota-2.co\/topic\/9348-dota-2-canada-cup-season-2-announcement\/",
+				"itemdef": 15335
+			},
+			{
+				"name": "#DOTA_Item_GLeague_2013",
+				"leagueid": 114,
+				"description": "#DOTA_Item_Desc_GLeague_2013",
+				"tournament_url": "http:\/\/gleague.gamefy.cn\/",
+				"itemdef": 15337
+			},
+			{
+				"name": "#DOTA_Item_IXDL_Battle_of_the_Regions",
+				"leagueid": 65014,
+				"description": "#DOTA_Item_Desc_IXDL_Battle_of_the_Regions",
+				"tournament_url": "http:\/\/ixdl.net\/index.php\/topic\/9256-ixdl-battle-of-the-regions\/",
+				"itemdef": 15340
+			},
+			{
+				"name": "#DOTA_Item_Montenegro_National_League",
+				"leagueid": 128,
+				"description": "#DOTA_Item_Desc_Montenegro_National_League",
+				"tournament_url": "http:\/\/esscg.me\/category\/pcl\/",
+				"itemdef": 15342
+			},
+			{
+				"name": "#DOTA_Item_Gigabyte_Premier_League_Season_1",
+				"leagueid": 131,
+				"description": "#DOTA_Item_Desc_Gigabyte_Premier_League_Season_1",
+				"tournament_url": "http:\/\/www.dotatalk.com\/tournaments\/gigabyte-premier-league",
+				"itemdef": 15343
+			},
+			{
+				"name": "#DOTA_Item_Polish_Dota_2_Online_Championships",
+				"leagueid": 115,
+				"description": "#DOTA_Item_Desc_Polish_Dota_2_Online_Championships",
+				"tournament_url": "http:\/\/d2oc.com\/",
+				"itemdef": 15348
+			},
+			{
+				"name": "#DOTA_Item_Elite_Clan_Wars",
+				"leagueid": 116,
+				"description": "#DOTA_Item_Desc_Elite_Clan_Wars",
+				"tournament_url": "http:\/\/www.eliteclanwars.com\/index.php?p=league&id=371",
+				"itemdef": 15350
+			},
+			{
+				"name": "#DOTA_Item_South_American_Elite_League",
+				"leagueid": 117,
+				"description": "#DOTA_Item_Desc_South_American_Elite_League",
+				"tournament_url": "http:\/\/neodota.com\/sel\/",
+				"itemdef": 15352
+			},
+			{
+				"name": "#DOTA_Item_Australian_ESports_League",
+				"leagueid": 118,
+				"description": "#DOTA_Item_Desc_Australian_ESports_League",
+				"tournament_url": "http:\/\/www.esportsdaily.com.au\/leagues",
+				"itemdef": 15354
+			},
+			{
+				"name": "#DOTA_Item_SDL_1",
+				"leagueid": 119,
+				"description": "#DOTA_Item_Desc_SDL_1",
+				"tournament_url": "http:\/\/shigueoleague.com\/?p=21",
+				"itemdef": 15357
+			},
+			{
+				"name": "#DOTA_Item_Sina_Cup_Supernova_Dota_2_Open_Season_2",
+				"leagueid": 120,
+				"description": "#DOTA_Item_Desc_Sina_Cup_Supernova_Dota_2_Open_Season_2",
+				"tournament_url": "http:\/\/games.sina.com.cn\/o\/z\/dota2\/supernova2.shtml",
+				"itemdef": 15359
+			},
+			{
+				"name": "#DOTA_Item_Aerocool_Dota_2_Gaming_Challenge_Brazil",
+				"leagueid": 121,
+				"description": "#DOTA_Item_Desc_Aerocool_Dota_2_Gaming_Challenge_Brazil",
+				"tournament_url": "http:\/\/www.nationalesl.com\/br\/dota2\/",
+				"itemdef": 15361
+			},
+			{
+				"name": "#DOTA_Item_The_Orena",
+				"leagueid": 122,
+				"description": "#DOTA_Item_Desc_The_Orena",
+				"tournament_url": "http:\/\/orena.co.za\/",
+				"itemdef": 15363
+			},
+			{
+				"name": "#DOTA_Item_Yard_Orange_Festival",
+				"leagueid": 123,
+				"description": "#DOTA_Item_Desc_Yard_Orange_Festival",
+				"tournament_url": "http:\/\/www.d2yard.com\/",
+				"itemdef": 15365
+			},
+			{
+				"name": "#DOTA_Item_SLTV_Star_Series_Season_8",
+				"leagueid": 124,
+				"description": "#DOTA_Item_Desc_SLTV_Star_Series_Season_8",
+				"tournament_url": "http:\/\/dota2.starladder.tv",
+				"itemdef": 15368
+			},
+			{
+				"name": "#DOTA_Item_Nexon_Sponsorship_League_Season_2__Gama_Brothers_Courier",
+				"leagueid": 125,
+				"description": "#DOTA_Item_Desc_Nexon_Sponsorship_League_Season_2__Gama_Brothers_Courier",
+				"tournament_url": "http:\/\/dota2.nexon.com\/",
+				"itemdef": 15381
+			},
+			{
+				"name": "#DOTA_Item_Pinoy_Dota_2_Online_Battle",
+				"leagueid": 126,
+				"description": "#DOTA_Item_Desc_Pinoy_Dota_2_Online_Battle",
+				"tournament_url": "http:\/\/www.pinoydota.net\/online-battle",
+				"itemdef": 15383
+			},
+			{
+				"name": "#DOTA_Item_Defense_of_the_Australians_Season_2",
+				"leagueid": 127,
+				"description": "#DOTA_Item_Desc_Defense_of_the_Australians_Season_2",
+				"tournament_url": "http:\/\/www.d2t.com.au\/",
+				"itemdef": 15385
+			},
+			{
+				"name": "#DOTA_Item_Razer_Pinoy_Cup_Season_1",
+				"leagueid": 129,
+				"description": "#DOTA_Item_Desc_Razer_Pinoy_Cup_Season_1",
+				"tournament_url": "http:\/\/www.dotalegends.com\/tournaments\/season-1-pinoy-cup-1",
+				"itemdef": 15388
+			},
+			{
+				"name": "#DOTA_Item_Sudamerican_Master",
+				"leagueid": 130,
+				"description": "#DOTA_Item_Desc_Sudamerican_Master",
+				"tournament_url": "http:\/\/www.livedota.tv\/sudamerican-master-by-livedota-and-battleground\/",
+				"itemdef": 15390
+			},
+			{
+				"name": "#DOTA_Item_Dota_2_Winter_Open",
+				"leagueid": 132,
+				"description": "#DOTA_Item_Desc_Dota_2_Winter_Open",
+				"tournament_url": "http:\/\/www.teamliquid.net\/forum\/viewmessage.php?topic_id=435612",
+				"itemdef": 15393
+			},
+			{
+				"name": "#DOTA_Item_Saratov_Cup_Open_Finals",
+				"leagueid": 133,
+				"description": "#DOTA_Item_Desc_Unnamed_New_Item",
+				"tournament_url": "http:\/\/dota2.thecyberwars.ru\/",
+				"itemdef": 15395
+			},
+			{
+				"name": "#DOTA_Item_Elite_Southeast_Asian_League",
+				"leagueid": 134,
+				"description": "#DOTA_Item_Desc_Elite_Southeast_Asian_League",
+				"tournament_url": "http:\/\/ixdl.net\/",
+				"itemdef": 15397
+			},
+			{
+				"name": "#DOTA_Item_Raidcall_Southeast_Asian_Invitational_League",
+				"leagueid": 135,
+				"description": "#DOTA_Item_Desc_Raidcall_Southeast_Asian_Invitational",
+				"tournament_url": "http:\/\/seaileague.com\/tournament\/south-east-asia-invitational-league\/",
+				"itemdef": 15399
+			},
+			{
+				"name": "#DOTA_Item_SteelSeries_Southeast_Asian_Cup_Season_4",
+				"leagueid": 136,
+				"description": "#DOTA_Item_Desc_SteelSeries_Southeast_Asian_Cup_Season_4",
+				"tournament_url": "http:\/\/www.dotatalk.com\/tournaments\/steelseries-sea-cup-4",
+				"itemdef": 15402
+			},
+			{
+				"name": "#DOTA_Item_SDL_2014_Season_1",
+				"leagueid": 137,
+				"description": "#DOTA_Item_Desc_SDL_2014_Season_1",
+				"tournament_url": "http:\/\/www.shigueoleague.com\/",
+				"itemdef": 15404
+			},
+			{
+				"name": "#DOTA_Item_The_International_TP",
+				"leagueid": 65006,
+				"description": "#DOTA_Item_Desc_The_International_TP",
+				"tournament_url": "http:\/\/www.dota2.com\/international\/announcement\/",
+				"itemdef": 15194
+			},
+			{
+				"name": "#DOTA_Item_European_Elite_League__January",
+				"leagueid": 143,
+				"description": "#DOTA_Item_Desc_European_Elite_League__January",
+				"tournament_url": "http:\/\/neodota.com\/eel\/",
+				"itemdef": 15412
+			},
+			{
+				"name": "#DOTA_Item_Dota_2_Romania_IV",
+				"leagueid": 138,
+				"description": "#DOTA_Item_Desc_Dota_2_Romania_IV",
+				"tournament_url": "http:\/\/forum.dota2romania.com\/topic\/979-d2ro-5v5-4",
+				"itemdef": 15415
+			},
+			{
+				"name": "#DOTA_Item_Sri_Lanka_Cyber_Games_2013",
+				"leagueid": 65015,
+				"description": "#DOTA_Item_Desc_Sri_Lanka_Cyber_Games_2013",
+				"tournament_url": "http:\/\/www.slcg.lk\/",
+				"itemdef": 15417
+			},
+			{
+				"name": "#DOTA_Item_League_of_Dota",
+				"leagueid": 139,
+				"description": "#DOTA_Item_Desc_League_of_Dota",
+				"tournament_url": "http:\/\/www.leagueofdota.com\/",
+				"itemdef": 15419
+			},
+			{
+				"name": "#DOTA_Item_Dota_2_Holiday_Dream_Challenge",
+				"leagueid": 65017,
+				"description": "#DOTA_Item_Desc_Dota_2_Holiday_Dream_Challenge",
+				"tournament_url": "http:\/\/www.egaming.gr\/",
+				"itemdef": 15421
+			},
+			{
+				"name": "#DOTA_Item_IXDL_Southeast_Asian_Invite_League",
+				"leagueid": 65016,
+				"description": "#DOTA_Item_Desc_IXDL_Southeast_Asian_Invite_League",
+				"tournament_url": "http:\/\/ixdl.net\/index.php\/forum\/244-ixdl-invite-sea\/",
+				"itemdef": 15422
+			},
+			{
+				"name": "#DOTA_Item_SteelSeries_Malaysia_Champions_Cup",
+				"leagueid": 140,
+				"description": "#DOTA_Item_Desc_SteelSeries_Malaysia_Champions_Cup",
+				"tournament_url": "http:\/\/www.dotatalk.com\/tournaments\/steelseries-malaysia-champions-cup",
+				"itemdef": 15425
+			},
+			{
+				"name": "#DOTA_Item_Bahrain_Dota_2_League",
+				"leagueid": 141,
+				"description": "#DOTA_Item_Desc_Bahrain_Dota_2_League",
+				"tournament_url": "https:\/\/www.facebook.com\/events\/670242163007973\/",
+				"itemdef": 15427
+			},
+			{
+				"name": "#DOTA_Item_FGCL_Championship_League__HUD_Skin",
+				"leagueid": 142,
+				"description": "#DOTA_Item_Desc_FGCL_Championship_League",
+				"tournament_url": "http:\/\/dota.fgcl.ru\/champ\/championship_league\/",
+				"itemdef": 15429
+			},
+			{
+				"name": "#DOTA_Item_Korean_Elite_League__January",
+				"leagueid": 144,
+				"description": "#DOTA_Item_Desc_Korean_Elite_League__January",
+				"tournament_url": "http:\/\/neodota.com\/kel\/",
+				"itemdef": 15432
+			},
+			{
+				"name": "#DOTA_Item_Sunday_Evening_Cup_Series__Season_2",
+				"leagueid": 145,
+				"description": "#DOTA_Item_Desc_Sunday_Evening_Cup_Series__Season_2",
+				"tournament_url": "http:\/\/nadota.com\/secs",
+				"itemdef": 15434
+			},
+			{
+				"name": "#DOTA_Item_Asian_Cyber_Games_Dota_2_Championship_2013",
+				"leagueid": 146,
+				"description": "#DOTA_Item_Desc_Asian_Cyber_Games_Dota_2_Championship_2013",
+				"tournament_url": "http:\/\/e-clubmalaysia.com\/dota2\/?page_id=3471",
+				"itemdef": 15436
+			},
+			{
+				"name": "#DOTA_Item_Dota_2_Chile_Tournament",
+				"leagueid": 147,
+				"description": "#DOTA_Item_Desc_Dota_2_Chile_Tournament",
+				"tournament_url": "http:\/\/www.dotachile.cl\/",
+				"itemdef": 15438
+			},
+			{
+				"name": "#DOTA_Item_Dota2fr_League",
+				"leagueid": 148,
+				"description": "#DOTA_Item_Desc_Dota2fr_League",
+				"tournament_url": "http:\/\/www.dota2.fr\/jouer\/ligue",
+				"itemdef": 15442
+			},
+			{
+				"name": "#DOTA_Item_Macedonian_Dota_2_Cup_#2",
+				"leagueid": 149,
+				"description": "#DOTA_Item_Desc_Macedonian_Dota_2_Cup_#2",
+				"tournament_url": "https:\/\/www.facebook.com\/Dota2MacedoniaCommunity",
+				"itemdef": 15444
+			},
+			{
+				"name": "#DOTA_Item_Dota_2_Challenge",
+				"leagueid": 150,
+				"description": "#DOTA_Item_Desc_Dota_2_Challenge",
+				"tournament_url": "http:\/\/www.esl.eu\/uk\/dota2\/5on5\/dota2challengefeb2014\/",
+				"itemdef": 15446
+			},
+			{
+				"name": "#DOTA_Item_Nexon_Sponsorship_League_Season_3",
+				"leagueid": 151,
+				"description": "#DOTA_Item_Desc_Nexon_Sponsorship_League_Season_3",
+				"tournament_url": "http:\/\/dota2.nexon.com\/",
+				"itemdef": 15448
+			},
+			{
+				"name": "#DOTA_Item_Pro_Dota_2_Solo_Ranked_League",
+				"leagueid": 152,
+				"description": "#DOTA_Item_Desc_Pro_Dota_2_Solo_Ranked_League",
+				"tournament_url": "http:\/\/prodota.hu\/",
+				"itemdef": 15450
+			},
+			{
+				"name": "#DOTA_Item_Assembly_Winter_2014",
+				"leagueid": 163,
+				"description": "#DOTA_Item_Desc_Assembly_Winter_2014",
+				"tournament_url": "http:\/\/www.assembly.org\/",
+				"itemdef": 15452
+			},
+			{
+				"name": "#DOTA_Item_Logitech_G__Free_to_Play_2",
+				"leagueid": 154,
+				"description": "#DOTA_Item_Desc_Logitech_G__Free_to_Play_2",
+				"tournament_url": "https:\/\/www.facebook.com\/Free2Play.EIE",
+				"itemdef": 15454
+			},
+			{
+				"name": "#DOTA_Item_Hero_Dota_Second_Chapter",
+				"leagueid": 155,
+				"description": "#DOTA_Item_Desc_Hero_Dota_Second_Chapter",
+				"tournament_url": "http:\/\/herodota.ru\/",
+				"itemdef": 15456
+			},
+			{
+				"name": "#DOTA_Item_Australian_ESports_League_2014_Summer_Cup",
+				"leagueid": 156,
+				"description": "#DOTA_Item_Desc_Australian_ESports_League_2014_Summer_Cup",
+				"tournament_url": "http:\/\/www.esportsdaily.com.au\/events\/43-dota-2-australian-esports-league-summer-cup-2014",
+				"itemdef": 15458
+			},
+			{
+				"name": "#DOTA_Item_Amateur_Dota_2_League_Season_1__Playoffs",
+				"leagueid": 157,
+				"description": "#DOTA_Item_Desc_Amateur_Dota_2_League_Season_1__Playoffs",
+				"tournament_url": "http:\/\/amateurdota2league.com\/",
+				"itemdef": 15460
+			},
+			{
+				"name": "#DOTA_Item_Amateur_Dota_2_League_Season_2",
+				"leagueid": 158,
+				"description": "#DOTA_Item_Desc_Amateur_Dota_2_League_Season_2",
+				"tournament_url": "http:\/\/amateurdota2league.com\/",
+				"itemdef": 15462
+			},
+			{
+				"name": "#DOTA_Item_Tampa_eSports_Winter_WonderLAN_2014",
+				"leagueid": 159,
+				"description": "#DOTA_Item_Desc_Tampa_eSports_Winter_WonderLAN_2014",
+				"tournament_url": "http:\/\/tampaesports.com\/tampa-esports-winter-wonderlan-2014\/",
+				"itemdef": 15464
+			},
+			{
+				"name": "#DOTA_Item_Prodota_Winter_Cup",
+				"leagueid": 160,
+				"description": "#DOTA_Item_Desc_Prodota_Winter_Cup",
+				"tournament_url": "http:\/\/prodota.ru\/news\/pd-cup-winter-announced\/",
+				"itemdef": 15466
+			},
+			{
+				"name": "#DOTA_Item_SteelSeries_Euro_Cup_Season_3",
+				"leagueid": 161,
+				"description": "#DOTA_Item_Desc_SteelSeries_Euro_Cup_Season_3",
+				"tournament_url": "http:\/\/www.dotatalk.com\/tournaments\/steelseries-euro-cup-3",
+				"itemdef": 15468
+			},
+			{
+				"name": "#DOTA_Item_Thursday_Evening_Cup_Series",
+				"leagueid": 162,
+				"description": "#DOTA_Item_Desc_Thursday_Evening_Cup_Series",
+				"tournament_url": "http:\/\/nadota.com\/tecs",
+				"itemdef": 15470
+			},
+			{
+				"name": "#DOTA_Item_Doteirao_League_Season_5",
+				"leagueid": 164,
+				"description": "#DOTA_Item_Desc_Doteirao_League_Season_5",
+				"tournament_url": "http:\/\/www.megalodongaming.com\/",
+				"itemdef": 15472
+			},
+			{
+				"name": "#DOTA_Item_League_of_Dota_2",
+				"leagueid": 165,
+				"description": "#DOTA_Item_Desc_League_of_Dota_2",
+				"tournament_url": "http:\/\/leagueofdota.com\/",
+				"itemdef": 15474
+			},
+			{
+				"name": "#DOTA_Item_CIS_Carnage_2014",
+				"leagueid": 166,
+				"description": "#DOTA_Item_Desc_CIS_Carnage_2014",
+				"tournament_url": "http:\/\/cis-carnage.com\/",
+				"itemdef": 15476
+			},
+			{
+				"name": "#DOTA_Item_ESP_Shock_Therapy_Cup_Ticket",
+				"leagueid": 167,
+				"description": "#DOTA_Item_Desc_ESP_Shock_Therapy_Cup",
+				"tournament_url": "http:\/\/es-prime.com\/",
+				"itemdef": 15478
+			},
+			{
+				"name": "#DOTA_Item_South_Sumatera_Dota_2_Amateur_League_2014",
+				"leagueid": 168,
+				"description": "#DOTA_Item_Desc_South_Sumatera_Dota_2_Amateur_League_2014",
+				"tournament_url": "http:\/\/www.commandcentre.org\/",
+				"itemdef": 15480
+			},
+			{
+				"name": "#DOTA_Item_Hungarian_Premier_League_Season_6",
+				"leagueid": 169,
+				"description": "#DOTA_Item_Desc_Hungarian_Premier_League_Season_6",
+				"tournament_url": "http:\/\/dota2.hu\/hpl",
+				"itemdef": 15482
+			},
+			{
+				"name": "#DOTA_Item_Helios_Esports__Logitech_Gaming_Season_1",
+				"leagueid": 170,
+				"description": "#DOTA_Item_Desc_Helios_Esports__Logitech_Gaming_Season_1",
+				"tournament_url": "http:\/\/heliosesports.com\/tournament\/",
+				"itemdef": 15484
+			},
+			{
+				"name": "#DOTA_Item_Sweaty_Cup",
+				"leagueid": 171,
+				"description": "#DOTA_Item_Desc_Sweaty_Cup",
+				"tournament_url": "http:\/\/pot-cup.ru\/",
+				"itemdef": 15486
+			},
+			{
+				"name": "#DOTA_Item_Netolic_Pro_League_5_West_Ticket",
+				"leagueid": 176,
+				"description": "#DOTA_Item_Desc_Netolic_Pro_League_5_West",
+				"tournament_url": "http:\/\/www.netolic.tv\/",
+				"itemdef": 15488
+			},
+			{
+				"name": "#DOTA_Item_Dota2VO_Seasons_Frostfire",
+				"leagueid": 173,
+				"description": "#DOTA_Item_Desc_Dota2VO_Seasons_Frostfire",
+				"tournament_url": "http:\/\/dota2vo.ru\/frostfire.html",
+				"itemdef": 15490
+			},
+			{
+				"name": "#DOTA_Item_Asian_Cyber_Games_Invitational_Best_of_the_Best",
+				"leagueid": 174,
+				"description": "#DOTA_Item_Desc_Asian_Cyber_Games_Invitational_Best_of_the_Best",
+				"tournament_url": "http:\/\/e-clubmalaysia.com\/dota2\/?p=8028",
+				"itemdef": 15492
+			},
+			{
+				"name": "#DOTA_Item_Macedonian_Elite_League",
+				"leagueid": 175,
+				"description": "#DOTA_Item_Desc_Macedonian_Elite_League",
+				"tournament_url": "https:\/\/www.facebook.com\/Dota2MacedoniaCommunity",
+				"itemdef": 15494
+			},
+			{
+				"name": "#DOTA_Item_Netolic_Pro_League_5_East_Ticket",
+				"leagueid": 177,
+				"description": "#DOTA_Item_Desc_Netolic_Pro_League_5_East",
+				"tournament_url": "http:\/\/www.netolic.tv\/",
+				"itemdef": 15496
+			},
+			{
+				"name": "#DOTA_Item_GamerSportPeru",
+				"leagueid": 178,
+				"description": "#DOTA_Item_Desc_GamerSportPeru",
+				"tournament_url": "http:\/\/www.gamersportperu.com\/",
+				"itemdef": 15498
+			},
+			{
+				"name": "#DOTA_Item_Pro_Dota_2_Solo_Ranked_League_Season_2",
+				"leagueid": 179,
+				"description": "#DOTA_Item_Desc_Pro_Dota_2_Solo_Ranked_League_Season_2",
+				"tournament_url": "http:\/\/prodota.hu\/",
+				"itemdef": 15500
+			},
+			{
+				"name": "#DOTA_Item_Yard_White_Festival_Ticket",
+				"leagueid": 180,
+				"description": "#DOTA_Item_Desc_Yard_White_Festival",
+				"tournament_url": "http:\/\/www.d2yard.com",
+				"itemdef": 15502
+			},
+			{
+				"name": "#DOTA_Item_SteelSeries_Balkan_Cup_Season_1",
+				"leagueid": 182,
+				"description": "#DOTA_Item_Desc_SteelSeries_Balkan_Cup_Season_1",
+				"tournament_url": "http:\/\/www.dotatalk.com\/tournaments\/steelseries-balkan-cup",
+				"itemdef": 15507
+			},
+			{
+				"name": "#DOTA_Item_joinDOTA_League",
+				"leagueid": 181,
+				"description": "#DOTA_Item_Desc_joinDOTA_League",
+				"tournament_url": "http:\/\/www.joindota.com\/en\/leagues\/",
+				"itemdef": 15517
+			},
+			{
+				"name": "#DOTA_Item_Oscar_Cup_Tournament_Seeason_3",
+				"leagueid": 183,
+				"description": "#DOTA_Item_Desc_OscarCup_Tournament_Seeason_3",
+				"tournament_url": "http:\/\/oscarcup.ru\/",
+				"itemdef": 15520
+			},
+			{
+				"name": "#DOTA_Item_GameLadders_Dota_2_League",
+				"leagueid": 65018,
+				"description": "#DOTA_Item_Desc_GameLadders_Dota_2_League",
+				"tournament_url": "http:\/\/dota2.gameladders.lk\/",
+				"itemdef": 15522
+			},
+			{
+				"name": "#DOTA_Item_MLG_TKO",
+				"leagueid": 184,
+				"description": "#DOTA_Item_Desc_MLG_TKO",
+				"tournament_url": "http:\/\/mlg.joindota.com\/en\/start",
+				"itemdef": 15524
+			},
+			{
+				"name": "#DOTA_Item_Pro_Gaming_Tours_League",
+				"leagueid": 185,
+				"description": "#DOTA_Item_Desc_Pro_Gaming_Tours_League",
+				"tournament_url": "http:\/\/www.progamingtours.net\/tournament\/pgtl-na-dota-2\/",
+				"itemdef": 15526
+			},
+			{
+				"name": "#DOTA_Item_BoraDota",
+				"leagueid": 186,
+				"description": "#DOTA_Item_Desc_BoraDota",
+				"tournament_url": "http:\/\/www.boradota.com\/",
+				"itemdef": 15529
+			},
+			{
+				"name": "#DOTA_Item_Battle_of_Pride_Malaysia_vs_Philippines",
+				"leagueid": 187,
+				"description": "#DOTA_Item_Desc_Battle_of_Pride_Malaysia_vs_Philippines",
+				"tournament_url": "http:\/\/www.dotatalk.com\/tournaments\/battle-of-pride-malaysia-vs-philippines",
+				"itemdef": 15532
+			},
+			{
+				"name": "#DOTA_Item_Dota_2_Champions_League_Season_2_Ticket",
+				"leagueid": 196,
+				"description": "#DOTA_Item_Desc_Dota_2_Champions_League_Season_2",
+				"tournament_url": "http:\/\/www.d2cl.org\/",
+				"itemdef": 15534
+			},
+			{
+				"name": "#DOTA_Item_Dota2ru_Cup_#1_Ticket",
+				"leagueid": 188,
+				"description": "#DOTA_Item_Desc_Dota2ru_Cup_#1",
+				"tournament_url": "http:\/\/dota2.ru\/news\/3018-anons-dota2ru-cup-1\/",
+				"itemdef": 15536
+			},
+			{
+				"name": "#DOTA_Item_Sina_Cup_Supernova_Season_3",
+				"leagueid": 189,
+				"description": "#DOTA_Item_Desc_Sina_Cup_Supernova_Season_3",
+				"tournament_url": "",
+				"itemdef": 15538
+			},
+			{
+				"name": "#DOTA_Item_ESPL_Season_1_Ticket",
+				"leagueid": 190,
+				"description": "#DOTA_Item_Desc_ESPL_Season_1",
+				"tournament_url": "http:\/\/esp.gg\/",
+				"itemdef": 15540
+			},
+			{
+				"name": "#DOTA_Item_AOC_Pro_Cup_Season_1",
+				"leagueid": 191,
+				"description": "#DOTA_Item_Desc_AOC_Pro_Cup_Season_1",
+				"tournament_url": "http:\/\/www.dotatalk.com\/tournaments\/aoc-pro-cup",
+				"itemdef": 15544
+			},
+			{
+				"name": "#DOTA_Item_Orena_Dota_2_Cup",
+				"leagueid": 192,
+				"description": "#DOTA_Item_Desc_Orena_Dota_2_Cup",
+				"tournament_url": "http:\/\/orena.co.za\/dota-2-cup\/",
+				"itemdef": 15546
+			},
+			{
+				"name": "#DOTA_Item_Amateur_Dota_2_League_Season_3",
+				"leagueid": 193,
+				"description": "#DOTA_Item_Desc_Amateur_Dota_2_League_Season_3",
+				"tournament_url": "http:\/\/amateurdota2league.com\/",
+				"itemdef": 15548
+			},
+			{
+				"name": "#DOTA_Item_King_of_the_North",
+				"leagueid": 194,
+				"description": "#DOTA_Item_Desc_King_of_the_North",
+				"tournament_url": "http:\/\/www.uomesports.com\/",
+				"itemdef": 15550
+			},
+			{
+				"name": "#DOTA_Item_Ladder_Dota2Chilenet_Season_1",
+				"leagueid": 195,
+				"description": "#DOTA_Item_Desc_Ladder_Dota2Chilenet_Season_1",
+				"tournament_url": "http:\/\/dota2chile.net\/index.php",
+				"itemdef": 15552
+			},
+			{
+				"name": "#DOTA_Item_Korea_Dota_League_Season_1_Ticket",
+				"leagueid": 197,
+				"description": "#DOTA_Item_Desc_Korea_Dota_League_Season_1",
+				"tournament_url": "http:\/\/dota2.nexon.com\/",
+				"itemdef": 15553
+			},
+			{
+				"name": "#DOTA_Item_Banglagamer_Dota_2_Championship",
+				"leagueid": 65019,
+				"description": "#DOTA_Item_Desc_Banglagamer_Dota_2_Championship",
+				"tournament_url": "http:\/\/banglagamer.com\/",
+				"itemdef": 15556
+			},
+			{
+				"name": "#DOTA_Item_Bulgarian_Amateur_League_Season_One",
+				"leagueid": 198,
+				"description": "#DOTA_Item_Desc_Bulgarian_Amateur_League_Season_One",
+				"tournament_url": "http:\/\/facebook.com\/dota2bg",
+				"itemdef": 15559
+			},
+			{
+				"name": "#DOTA_Item_Sunday_Evening_Cup_Series_Season_3",
+				"leagueid": 199,
+				"description": "#DOTA_Item_Desc_Sunday_Evening_Cup_Series_Season_3",
+				"tournament_url": "http:\/\/nadota.com\/secs",
+				"itemdef": 15561
+			},
+			{
+				"name": "#DOTA_Item_GCCSL_Cup_Lan_#1",
+				"leagueid": 200,
+				"description": "#DOTA_Item_Desc_GCCSL_Cup_Lan_#1",
+				"tournament_url": "http:\/\/gccsl.ru\/turnir-po-dota2.html",
+				"itemdef": 15563
+			},
+			{
+				"name": "#DOTA_Item_MPGL_Season_6_SEA_Qualifier_Ticket",
+				"leagueid": 201,
+				"description": "#DOTA_Item_Desc_MPGL_Season_6_SEA_Qualifier",
+				"tournament_url": "http:\/\/www.mineski.net\/",
+				"itemdef": 15565
+			},
+			{
+				"name": "#DOTA_Item_Dota_2_Romania_5__Spring_Cup_Ticket",
+				"leagueid": 202,
+				"description": "#DOTA_Item_Desc_Dota_2_Romania_5__Spring_Cup",
+				"tournament_url": "http:\/\/www.dota2romania.com\/",
+				"itemdef": 15567
+			},
+			{
+				"name": "#DOTA_Item_DC_Presents_The_XMG_Captains_Draft_Invitational_Ticket",
+				"leagueid": 203,
+				"description": "#DOTA_Item_Desc_DC_Presents_The_XMG_Captains_Draft_Invitational",
+				"tournament_url": "http:\/\/www.dotacinema.com\/",
+				"itemdef": 15569
+			},
+			{
+				"name": "#DOTA_Item_Zotac_Starleague_2014_Ticket",
+				"leagueid": 205,
+				"description": "#DOTA_Item_Desc_Zotac_Starleague_2014",
+				"tournament_url": "http:\/\/zotac2014.play4dota.tv\/",
+				"itemdef": 15571
+			},
+			{
+				"name": "#DOTA_Item_Red_Bull_Battle_Grounds",
+				"leagueid": 206,
+				"description": "#DOTA_Item_Desc_Red_Bull_Battle_Grounds",
+				"tournament_url": "http:\/\/www.redbull.com\/battlegrounds",
+				"itemdef": 15573
+			},
+			{
+				"name": "#DOTA_Item_SDL_2014_Season_One_Finale",
+				"leagueid": 207,
+				"description": "#DOTA_Item_Desc_SDL_2014_Season_One_Finale",
+				"tournament_url": "http:\/\/www.shigueoleague.com\/",
+				"itemdef": 15575
+			},
+			{
+				"name": "#DOTA_Item_Netolic_Amateur_League_Season_1_Ticket",
+				"leagueid": 208,
+				"description": "#DOTA_Item_Desc_Netolic_Amateur_League_Season_1",
+				"tournament_url": "http:\/\/www.netolic.tv\/",
+				"itemdef": 15577
+			},
+			{
+				"name": "#DOTA_Item_Copa_LiveDota_Chile_ExpoFAN",
+				"leagueid": 209,
+				"description": "#DOTA_Item_Desc_Copa_LiveDota_Chile_ExpoFAN",
+				"tournament_url": "http:\/\/livedota.tv\/index.php?\/page\/articles.html\/_\/articles\/copa-livedota-chile-r12",
+				"itemdef": 15579
+			},
+			{
+				"name": "#DOTA_Item_Thailand_Dota_2_Pro_League",
+				"leagueid": 210,
+				"description": "#DOTA_Item_Desc_Thailand_Dota_2_Pro_League",
+				"tournament_url": "http:\/\/dota2.e-clubthailand.com\/",
+				"itemdef": 15581
+			},
+			{
+				"name": "#DOTA_Item_Dota_2_Ireland_Season_2",
+				"leagueid": 211,
+				"description": "#DOTA_Item_Desc_Dota_2_Ireland_Season_2",
+				"tournament_url": "http:\/\/www.dota2ireland.com\/",
+				"itemdef": 15583
+			},
+			{
+				"name": "#DOTA_Item_Dota_2_Vietnam_Champions_League",
+				"leagueid": 212,
+				"description": "#DOTA_Item_Desc_Dota_2_Vietnam_Champions_League",
+				"tournament_url": "http:\/\/www.facebook.com\/PewPewVN",
+				"itemdef": 15585
+			},
+			{
+				"name": "#DOTA_Item_LerucyGaming_Tournament",
+				"leagueid": 213,
+				"description": "#DOTA_Item_Desc_LerucyGaming_Tournament",
+				"tournament_url": "http:\/\/www.lerucygaming.com\/?isi=posting&posting_seo=tournament_dota_2_indonesia",
+				"itemdef": 15587
+			},
+			{
+				"name": "#DOTA_Item_Gamersportperu_Season_3",
+				"leagueid": 214,
+				"description": "#DOTA_Item_Desc_Gamersportperu_Season_3",
+				"tournament_url": "http:\/\/www.gamersportperu.com\/",
+				"itemdef": 15589
+			},
+			{
+				"name": "#DOTA_Item_MSI_Beat_It_Gaming_League",
+				"leagueid": 215,
+				"description": "#DOTA_Item_Desc_MSI_Beat_It_Gaming_League",
+				"tournament_url": "http:\/\/nixiagamer.com\/msileague.html",
+				"itemdef": 15591
+			},
+			{
+				"name": "#DOTA_Item_Steelseries_Malaysia_Cup__February",
+				"leagueid": 216,
+				"description": "#DOTA_Item_Desc_Steelseries_Malaysia_Cup__February",
+				"tournament_url": "http:\/\/www.dotatalk.com\/tournaments\/steelseries-my-cup-1-2014",
+				"itemdef": 15593
+			},
+			{
+				"name": "#DOTA_Item_Brunei_Dota_League_2014",
+				"leagueid": 217,
+				"description": "#DOTA_Item_Desc_Brunei_Dota_League_2014",
+				"tournament_url": "http:\/\/dota2brunei.com\/brunei-dota-league.html",
+				"itemdef": 15595
+			},
+			{
+				"name": "#DOTA_Item_Thursday_Evening_Cup_Series_Season_2",
+				"leagueid": 218,
+				"description": "#DOTA_Item_Desc_Thursday_Evening_Cup_Series_Season_2",
+				"tournament_url": "http:\/\/nadota.com\/tecs",
+				"itemdef": 15597
+			},
+			{
+				"name": "#DOTA_Item_ICL_Dota_2_LAN",
+				"leagueid": 219,
+				"description": "#DOTA_Item_Desc_ICL_Dota_2_LAN",
+				"tournament_url": "http:\/\/lanseries.hu\/",
+				"itemdef": 15599
+			},
+			{
+				"name": "#DOTA_Item_Little_Yard_Festival",
+				"leagueid": 220,
+				"description": "#DOTA_Item_Desc_Little_Yard_Festival",
+				"tournament_url": "http:\/\/vk.com\/littleyardfestival",
+				"itemdef": 15601
+			},
+			{
+				"name": "#DOTA_Item_CEVO_Season_4",
+				"leagueid": 221,
+				"description": "#DOTA_Item_Desc_CEVO_Season_4",
+				"tournament_url": "http:\/\/cevo.com\/event\/dota2\/?tg=81",
+				"itemdef": 15603
+			},
+			{
+				"name": "#DOTA_Item_Donbass_Cup",
+				"leagueid": 222,
+				"description": "#DOTA_Item_Desc_Donbass_Cup",
+				"tournament_url": "http:\/\/vk.com\/cyber_sports_itstep_donetsk",
+				"itemdef": 15605
+			},
+			{
+				"name": "#DOTA_Item_ASUS_ROG_DreamLeague_Season_1",
+				"leagueid": 223,
+				"description": "#DOTA_Item_Desc_ASUS_ROG_DreamLeague_Season_1",
+				"tournament_url": "http:\/\/www.dreamhack.se\/",
+				"itemdef": 15607
+			},
+			{
+				"name": "#DOTA_Item_Pro_Dota_2_Solo_Ranked_League_Season_3_Ticket",
+				"leagueid": 224,
+				"description": "#DOTA_Item_Desc_Pro_Dota_2_Solo_Ranked_League_Season_3",
+				"tournament_url": "http:\/\/prodota.hu\/",
+				"itemdef": 15609
+			},
+			{
+				"name": "#DOTA_Item_Serbian_Dota_Premier_League",
+				"leagueid": 225,
+				"description": "#DOTA_Item_Desc_Serbian_Dota_Premier_League",
+				"tournament_url": "www.dota2serbia.info",
+				"itemdef": 15611
+			},
+			{
+				"name": "#DOTA_Item_CIS_Dota_2_League",
+				"leagueid": 226,
+				"description": "#DOTA_Item_Desc_CIS_Dota_2_League",
+				"tournament_url": "http:\/\/cisdl.jimdo.com\/",
+				"itemdef": 15613
+			},
+			{
+				"name": "#DOTA_Item_CFC_Elite_Cup",
+				"leagueid": 227,
+				"description": "#DOTA_Item_Desc_CFC_Elite_Cup",
+				"tournament_url": "http:\/\/cfcdota2.umi.ru\/",
+				"itemdef": 15615
+			},
+			{
+				"name": "#DOTA_Item_ESL_Series_Brazil_Season_1",
+				"leagueid": 228,
+				"description": "#DOTA_Item_Desc_ESL_Series_Brazil_Season_1",
+				"tournament_url": "http:\/\/www.nationalesl.com\/br\/dota2\/",
+				"itemdef": 15617
+			},
+			{
+				"name": "#DOTA_Item_Indonesia_Dota_2_League",
+				"leagueid": 229,
+				"description": "#DOTA_Item_Desc_Indonesia_Dota_2_League",
+				"tournament_url": "http:\/\/maindota2.com\/event-maindota2\/",
+				"itemdef": 15619
+			},
+			{
+				"name": "#DOTA_Item_Torresmo_Legacy_League",
+				"leagueid": 230,
+				"description": "#DOTA_Item_Desc_Torresmo_Legacy_League",
+				"tournament_url": "",
+				"itemdef": 15621
+			},
+			{
+				"name": "#DOTA_Item_Ro_goes_Pro",
+				"leagueid": 231,
+				"description": "#DOTA_Item_Desc_Ro_goes_Pro",
+				"tournament_url": "http:\/\/www.dota2romania.com\/",
+				"itemdef": 15623
+			},
+			{
+				"name": "#DOTA_Item_SLTV_Star_Series_Season_9_Ticket",
+				"leagueid": 232,
+				"description": "#DOTA_Item_Desc_SLTV_Star_Series_Season_9_Ticket",
+				"tournament_url": "http:\/\/dota2.starladder.tv\/",
+				"itemdef": 15625
+			},
+			{
+				"name": "#DOTA_Item_League_of_Dota_Season_3_Ticket",
+				"leagueid": 233,
+				"description": "#DOTA_Item_Desc_League_of_Dota_Season_3_Ticket",
+				"tournament_url": "http:\/\/leagueofdota.com\/",
+				"itemdef": 15627
+			},
+			{
+				"name": "#DOTA_Item_deafESL_Dota_2_League_Season_2",
+				"leagueid": 234,
+				"description": "#DOTA_Item_Desc_deafESL_Dota_2_League_Season_2",
+				"tournament_url": "http:\/\/deafesl.com\/dota\/dota2-league\/",
+				"itemdef": 15629
+			},
+			{
+				"name": "#DOTA_Item_The_Monster_Invitational",
+				"leagueid": 235,
+				"description": "#DOTA_Item_Desc_The_Monster_Invitational",
+				"tournament_url": "http:\/\/sxsw.d2l.gg\/",
+				"itemdef": 15631
+			},
+			{
+				"name": "#DOTA_Item_Dota2ru_Cup_#2_Ticket",
+				"leagueid": 236,
+				"description": "#DOTA_Item_Desc_Dota2ru_Cup_#2_Ticket",
+				"tournament_url": "http:\/\/dota2.ru\/news\/3171-anons-dota2ru-cup-2\/",
+				"itemdef": 15633
+			},
+			{
+				"name": "#DOTA_Item_EUS_Pro_League",
+				"leagueid": 237,
+				"description": "#DOTA_Item_Desc_EUS_Pro_League",
+				"tournament_url": "http:\/\/www.eus-pro-league.com\/",
+				"itemdef": 15635
+			},
+			{
+				"name": "#DOTA_Item_Defense_of_the_Australians_Autumn_Tournament",
+				"leagueid": 238,
+				"description": "#DOTA_Item_Desc_Defense_of_the_Australians_Autumn_Tournament",
+				"tournament_url": "https:\/\/www.d2t.com.au",
+				"itemdef": 15637
+			},
+			{
+				"name": "#DOTA_Item_Ronin_Dota_2_Tournament",
+				"leagueid": 239,
+				"description": "#DOTA_Item_Desc_Ronin_Dota_2_Tournament",
+				"tournament_url": "http:\/\/maindota2.com\/2014\/02\/08\/1115\/",
+				"itemdef": 15639
+			},
+			{
+				"name": "#DOTA_Item_FGCL_CIS_Open_Cup_Ticket",
+				"leagueid": 240,
+				"description": "#DOTA_Item_Desc_FGCL_CIS_Open_Cup_Ticket",
+				"tournament_url": "http:\/\/dota.fgcl.ru\/",
+				"itemdef": 15641
+			},
+			{
+				"name": "#DOTA_Item_CZSK_Dota_2_League",
+				"leagueid": 1002,
+				"description": "#DOTA_Item_Desc_CZSK_Dota_2_League",
+				"tournament_url": "http:\/\/www.dota2league.cz\/",
+				"itemdef": 15643
+			},
+			{
+				"name": "#DOTA_Item_Pro_Gaming_Tours_League_March_Ticket",
+				"leagueid": 501,
+				"description": "#DOTA_Item_Desc_Pro_Gaming_Tours_League_March_Ticket",
+				"tournament_url": "",
+				"itemdef": 15644
+			},
+			{
+				"name": "#DOTA_Item_South_Ural_League_Season_3_Ticket",
+				"leagueid": 500,
+				"description": "#DOTA_Item_Desc_South_Ural_League_Season_3_Ticket",
+				"tournament_url": "http:\/\/www.lks174.ru\/",
+				"itemdef": 15645
+			},
+			{
+				"name": "#DOTA_Item_Amateur_Dota_2_League_Season_3_Invitational_Ticket",
+				"leagueid": 503,
+				"description": "#DOTA_Item_Desc_Amateur_Dota_2_League_Season_3_Invitational_Ticket",
+				"tournament_url": "http:\/\/amateurdota2league.com\/",
+				"itemdef": 15646
+			},
+			{
+				"name": "#DOTA_Item_Dota_Trash_Destruction",
+				"leagueid": 1026,
+				"description": "#DOTA_Item_Desc_Dota_Trash_Destruction",
+				"tournament_url": "http:\/\/www.dotatrash.com\/destruction\/",
+				"itemdef": 15647
+			},
+			{
+				"name": "#DOTA_Item_Female_Dota_2_Southeast_Asia_League_Season_2",
+				"leagueid": 510,
+				"description": "#DOTA_Item_Desc_Female_Dota_2_Southeast_Asia_League_Season_2",
+				"tournament_url": "http:\/\/femaledota2.com\/tournaments\/femaledota2-sea-league\/fsl-2\/",
+				"itemdef": 15649
+			},
+			{
+				"name": "#DOTA_Item_Astrological_Sign_Championship_Ticket",
+				"leagueid": 1016,
+				"description": "#DOTA_Item_Desc_Astrological_Sign_Championship_Ticket",
+				"tournament_url": "http:\/\/dota2.uuu9.com\/",
+				"itemdef": 15651
+			},
+			{
+				"name": "#DOTA_Item_MD2_Malaysia_Brunei_Cup_Season_1",
+				"leagueid": 512,
+				"description": "#DOTA_Item_Desc_MD2_Malaysia_Brunei_Cup_Season_1",
+				"tournament_url": "http:\/\/malaysiadota2.com\/malaysia-dota-2-malaysia-brunei-cup-season-1\/",
+				"itemdef": 15652
+			},
+			{
+				"name": "#DOTA_Item_PantheonES_Cup",
+				"leagueid": 1022,
+				"description": "#DOTA_Item_Desc_PantheonES_Cup",
+				"tournament_url": "http:\/\/www.dota2.com.au\/",
+				"itemdef": 15653
+			},
+			{
+				"name": "#DOTA_Item_GameRing_Dota_2_March_Cup",
+				"leagueid": 1051,
+				"description": "#DOTA_Item_Desc_GameRing_Dota_2_March_Cup",
+				"tournament_url": "http:\/\/gamering.ru\/dota-2-march-cup\/",
+				"itemdef": 15654
+			},
+			{
+				"name": "#DOTA_Item_Korean_Dota_2_League_Community_Competition",
+				"leagueid": 1050,
+				"description": "#DOTA_Item_Desc_Korean_Dota_2_League_Community_Competition",
+				"tournament_url": "http:\/\/dota2.nexon.com\/League\/KDL\/KDL_Info.aspx",
+				"itemdef": 15655
+			},
+			{
+				"name": "#DOTA_Item_Dota2VO_Ability_Cup_#1_Ticket",
+				"leagueid": 505,
+				"description": "#DOTA_Item_Desc_Dota2VO_Ability_Cup_#1_Ticket",
+				"tournament_url": "http:\/\/dota2vo.ru\/abilitycup.html",
+				"itemdef": 15658
+			},
+			{
+				"name": "#DOTA_Item_WD_Dota_2_Pro_Series_Ticket",
+				"leagueid": 513,
+				"description": "#DOTA_Item_Desc_WD_Dota_2_Pro_Series_Ticket",
+				"tournament_url": "http:\/\/www.dotatalk.com\/tournaments\/wd-dota-2-pro-series",
+				"itemdef": 15659
+			},
+			{
+				"name": "#DOTA_Item_YoDota_League_Season_1",
+				"leagueid": 1056,
+				"description": "#DOTA_Item_Desc_YoDota_League_Season_1",
+				"tournament_url": "http:\/\/www.yodota.com\/?url=yodota-league",
+				"itemdef": 15661
+			},
+			{
+				"name": "#DOTA_Item_TTU_eSports_Spring_2014",
+				"leagueid": 1062,
+				"description": "#DOTA_Item_Desc_TTU_eSports_Spring_2014",
+				"tournament_url": "http:\/\/www.ttu.ee\/esport",
+				"itemdef": 15662
+			},
+			{
+				"name": "#DOTA_Item_Star_Cloud_League",
+				"leagueid": 1004,
+				"description": "#DOTA_Item_Desc_Star_Cloud_League",
+				"tournament_url": "http:\/\/www.star-cloud-league.com\/",
+				"itemdef": 15663
+			},
+			{
+				"name": "#DOTA_Item_UFES_Dota_2_Cup_Season_4",
+				"leagueid": 1015,
+				"description": "#DOTA_Item_Desc_UFES_Dota_2_Cup_Season_4",
+				"tournament_url": "https:\/\/doity.com.br\/ufes-dota2-cup-season-4",
+				"itemdef": 15665
+			},
+			{
+				"name": "#DOTA_Item_Prodota_Spring_Cup_Ticket",
+				"leagueid": 502,
+				"description": "#DOTA_Item_Desc_Prodota_Spring_Cup_Ticket",
+				"tournament_url": "http:\/\/prodota.ru\/news\/pd-spring-cup-announced\/",
+				"itemdef": 15666
+			},
+			{
+				"name": "#DOTA_Item_Dota_Pit_League_Season_One_Ticket",
+				"leagueid": 1040,
+				"description": "#DOTA_Item_Desc_Dota_Pit_League_Season_One_Ticket",
+				"tournament_url": "http:\/\/www.dotapit.com\/",
+				"itemdef": 15667
+			},
+			{
+				"name": "#DOTA_Item_League_of_Polarity",
+				"leagueid": 1048,
+				"description": "#DOTA_Item_Desc_League_of_Polarity",
+				"tournament_url": "http:\/\/vk.com\/gettraded2",
+				"itemdef": 15668
+			},
+			{
+				"name": "#DOTA_Item_Ready_4_League_Season_1",
+				"leagueid": 1055,
+				"description": "#DOTA_Item_Desc_Ready_4_League_Season_1",
+				"tournament_url": "http:\/\/www.ready4gaming.com\/",
+				"itemdef": 15669
+			},
+			{
+				"name": "#DOTA_Item_Open_Community_League_Tournaments",
+				"leagueid": 1059,
+				"description": "#DOTA_Item_Desc_Open_Community_League_Tournaments",
+				"tournament_url": "http:\/\/d2oc.jimdo.com\/",
+				"itemdef": 15670
+			},
+			{
+				"name": "#DOTA_Item_Macedonian_Dota_2_Cup_3",
+				"leagueid": 1066,
+				"description": "#DOTA_Item_Desc_Macedonian_Dota_2_Cup_3",
+				"tournament_url": "https:\/\/www.facebook.com\/mkdota2",
+				"itemdef": 15671
+			},
+			{
+				"name": "#DOTA_Item_Golden_Esports_League_Season_1",
+				"leagueid": 1070,
+				"description": "#DOTA_Item_Desc_Golden_Esports_League_Season_1",
+				"tournament_url": "http:\/\/www.goldenesports.com\/",
+				"itemdef": 15672
+			},
+			{
+				"name": "#DOTA_Item_WPC_World_Esports_Professional_Classic",
+				"leagueid": 1014,
+				"description": "#DOTA_Item_Desc_WPC_World_Esports_Professional_Classic",
+				"tournament_url": "http:\/\/www.wpc-esports.com\/",
+				"itemdef": 15673
+			},
+			{
+				"name": "#DOTA_Item_Battle_of_the_Cities",
+				"leagueid": 1064,
+				"description": "#DOTA_Item_Desc_Battle_of_the_Cities",
+				"tournament_url": "",
+				"itemdef": 15674
+			},
+			{
+				"name": "#DOTA_Item_Netolic_Amateur_League_Season_2_Ticket",
+				"leagueid": 1072,
+				"description": "#DOTA_Item_Desc_Netolic_Amateur_League_Season_2",
+				"tournament_url": "http:\/\/www.netolic.tv\/",
+				"itemdef": 15677
+			},
+			{
+				"name": "#DOTA_Item_Nvidia_Dota_2_Vietnam_Tournament",
+				"leagueid": 1081,
+				"description": "#DOTA_Item_Desc_Nvidia_Dota_2_Viewnam_Tournament",
+				"tournament_url": "http:\/\/www.rgn.vn\/",
+				"itemdef": 15678
+			},
+			{
+				"name": "#DOTA_Item_DotaTalk_Open_Cup",
+				"leagueid": 1088,
+				"description": "#DOTA_Item_Desc_DotaTalk_Open_Cup",
+				"tournament_url": "http:\/\/www.dotatalk.com\/tournaments\/dotatalk-open-cup",
+				"itemdef": 15679
+			},
+			{
+				"name": "#DOTA_Item_GLeague_2014",
+				"leagueid": 1101,
+				"description": "#DOTA_Item_Desc_GLeague_2014",
+				"tournament_url": "http:\/\/gleague.gamefy.cn\/",
+				"itemdef": 15680
+			},
+			{
+				"name": "#DOTA_Item_Steelseries_Malaysia_Cup_March",
+				"leagueid": 1094,
+				"description": "#DOTA_Item_Desc_Steelseries_Malaysia_Cup_March",
+				"tournament_url": "http:\/\/www.dotatalk.com\/tournaments\/steelseries-malaysia-cup-2-2014",
+				"itemdef": 15681
+			},
+			{
+				"name": "#DOTA_Item_PinoyDota_Online_Battle_Season_2_Ticket",
+				"leagueid": 1018,
+				"description": "#DOTA_Item_Desc_PinoyDota_Online_Battle_Season_2_Ticket",
+				"tournament_url": "http:\/\/www.pinoydota.net\/online-battle-season-2",
+				"itemdef": 15682
+			},
+			{
+				"name": "#DOTA_Item_Excellent_Moscow_Cup_Ticket",
+				"leagueid": 1003,
+				"description": "#DOTA_Item_Desc_Excellent_Moscow_Cup_Ticket",
+				"tournament_url": "http:\/\/excellentmd2.com",
+				"itemdef": 15683
+			},
+			{
+				"name": "#DOTA_Item_Pro_Dota_2_Solo_Ranked_League_Season_4",
+				"leagueid": 1113,
+				"description": "#DOTA_Item_Desc_Pro_Dota_2_Solo_Ranked_League_Season_4",
+				"tournament_url": "http:\/\/prodota.hu\/",
+				"itemdef": 15684
+			},
+			{
+				"name": "#DOTA_Item_Evolution_Esports_League_Season_1",
+				"leagueid": 1077,
+				"description": "#DOTA_Item_Desc_Evolution_Esports_League_Season_1",
+				"tournament_url": "http:\/\/www.vk.com\/evoel",
+				"itemdef": 15685
+			},
+			{
+				"name": "#DOTA_Item_Main_Dota_2_Champion_Tournament",
+				"leagueid": 1106,
+				"description": "#DOTA_Item_Desc_Main_Dota_2_Champion_Tournament",
+				"tournament_url": "http:\/\/maindota2.com\/maindota2-champion-league\/",
+				"itemdef": 15686
+			},
+			{
+				"name": "#DOTA_Item_Dota4You_Cup_Season_1",
+				"leagueid": 1090,
+				"description": "#DOTA_Item_Desc_Dota4You_Cup_Season_1",
+				"tournament_url": "http:\/\/vk.com\/dota4you",
+				"itemdef": 15687
+			},
+			{
+				"name": "#DOTA_Item_FGCL_Championship_League_Season_2_Ticket",
+				"leagueid": 1085,
+				"description": "#DOTA_Item_Desc_FGCL_Championship_League_Season_2_Ticket",
+				"tournament_url": "http:\/\/dota.fgcl.ru\/",
+				"itemdef": 15688
+			},
+			{
+				"name": "#DOTA_Item_SDL_2014_Season_2",
+				"leagueid": 1119,
+				"description": "#DOTA_Item_Desc_SDL_2014_Season_2",
+				"tournament_url": "http:\/\/www.shigueoleague.com\/",
+				"itemdef": 15689
+			},
+			{
+				"name": "#DOTA_Item_FACTME_Dota_2_Online_Tournament_Season_2",
+				"leagueid": 1058,
+				"description": "#DOTA_Item_Desc_FACTME_Dota_2_Online_Tournament",
+				"tournament_url": "",
+				"itemdef": 15690
+			},
+			{
+				"name": "#DOTA_Item_AMD_D2M_League",
+				"leagueid": 1034,
+				"description": "#DOTA_Item_Desc_AMD_D2M_League",
+				"tournament_url": "http:\/\/dota2my.com\/news\/amd-d2m-tournament",
+				"itemdef": 15694
+			}
+		]
+		
+	}
+}
